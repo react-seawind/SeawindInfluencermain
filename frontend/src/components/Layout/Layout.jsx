@@ -9,7 +9,6 @@ export default function Layout() {
     <>
       <HelmetProvider>
         <Header />
-
         <Router />
         <Footer />
       </HelmetProvider>
